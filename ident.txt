@@ -1,0 +1,7 @@
+my_name  default    
+_hey     112hidog 
+Lovely123 blank,        rock_on46
+printf if     do
+goto       defaulter
+continue     for while go_back 98# kiit#()
+
